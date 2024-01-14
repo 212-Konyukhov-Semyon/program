@@ -1,0 +1,5 @@
+com_file = comand.txt
+log_boundary = logbound.txt
+log_control = logcont.txt
+data = 0
+time = 0

@@ -1,0 +1,5 @@
+pole 10 10 
+gener 2 4 1
+pr
+rover 0 1 1 1 1
+processor 2 3 90 115

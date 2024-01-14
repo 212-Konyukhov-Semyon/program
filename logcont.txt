@@ -1,0 +1,5 @@
+Poluchil Razmery polya
+Poluchil kolichestvo kochek
+Pole gotovo k raspechatki
+Poluchil parametry rovera
+Marshryt mozhet byt' postroen

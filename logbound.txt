@@ -1,0 +1,5 @@
+otpravil razmery
+otpravil kolichestvo kochek
+otpravil pole na pechat' 
+otpravil rover
+otpravil processor
